@@ -72,9 +72,7 @@
 
 ---
 
-### ⭐️ From [Guilherme Almada](https://github.com/guidoac) ### 
-
-[Spotify](https://open.spotify.com/user/12144339651)
-Email: luizg.almada@gmail.com
+#### ⭐️ From [Guilherme Almada](https://github.com/guidoac) ####
+#### 📧 Email: luizg.almada@gmail.com #### 
 
 <sub>Last Edited on: 07/04/2022</sub>
