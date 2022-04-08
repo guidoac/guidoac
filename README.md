@@ -10,7 +10,7 @@
 - 📚 I’m currently (always) learning everything about Frontend and studying backend using NestJS.
 - 💪🏼 Future Goals: Never stop learning and creating ideas, i have a plan to study and improve my skills for a loooooong time.
 - 🌎 I'm brazilian, i live in the state of Espírito Santo.
-- 🤩 I'm 24 years old, i love read all related to computer science,mainly about front end and Vue.js (i love Vue so much), bur=t i like all areas, without exception.
+- 🤩 I'm 24 years old, i love read all related to computer science, mainly about front end and Vue.js (i love Vue so much), but i like all areas, without exception.
 - 🤝 Most of my contribuitions are for third-party projects.
 - 😌 I never deleted one single repository from my profile, here we have all my progression of my entire life.
 
