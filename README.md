@@ -8,7 +8,7 @@
 - 🎓 I'm graduated in Computer Science at FAESA
 - 👨‍💻 I’m currently working at [Yampi](https://www.yampi.com.br/) using web development technologies like Vue.js, Javascript, HTML, CSS.
 - 📚 I’m currently (always) learning everything about Frontend and studying backend using NestJS.
-- 💪🏼 Future Goals: Never stop learning and creating ideas, i have a plan to study and improve my skills for a loooooong time.
+- 💪🏼 Future Goals: Never stop learning and creating ideas, i intend to study and improve my skills for a loooooong time.
 - 🌎 I'm brazilian, i live in the state of Espírito Santo.
 - 🤩 I'm 24 years old, i love read all related to computer science, mainly about front end and Vue.js (i love Vue so much), but i like all areas, without exception.
 - 🤝 Most of my contribuitions are for third-party projects.
