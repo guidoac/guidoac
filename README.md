@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Guilherme Almada - aka Guido <img width="10px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  Hi there, I'm Guilherme Almada - aka Guido <img width="5px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 </h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
